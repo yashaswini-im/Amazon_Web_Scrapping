@@ -88,9 +88,9 @@ mydb = mysql.connector.connect(
 
 
 # Authors
-## Hi, I'm Yashaswini Patil! 👋
+## Hi, I'm Yashaswini IM! 👋
 
-- [@Yashaswini Patil]((https://github.com/yashaswini-im))
+- [@Yashaswini IM]((https://github.com/yashaswini-im))
 
 
 ## 🚀 About Me

@@ -86,16 +86,15 @@ mydb = mysql.connector.connect(
 ```
 
 
-# Hi, I'm Shivakumar Patil! 👋
 
+# Authors
+## Hi, I'm Yashaswini Patil! 👋
 
-## Authors
-
-- [@Shivakumar Patil](https://github.com/iamshiva003)
+- [@Yashaswini Patil]((https://github.com/yashaswini-im))
 
 
 ## 🚀 About Me
-I'm a python full stack developer...
+I'm a python developer...
 
 
 ## 🛠 Skills
@@ -103,7 +102,6 @@ Python, HTML, CSS, Javascript, C...
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iamshiva003.github.io/personal/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamshiva003/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashaswini-im/)
 
 
